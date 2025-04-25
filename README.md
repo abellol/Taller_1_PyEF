@@ -90,10 +90,15 @@ No. Es un estudio observacional; no hay intervención directa.
 La chía ha ganado una reputación completamente nueva como suplemento dietético. En un estudio de 2009, un equipo de investigadores reclutó a 38 hombres y los dividió al azar en dos grupos: tratamiento o control. También reclutaron a 38 mujeres, y colocaron al azar a la mitad de estos participantes en el grupo de tratamiento y la otra mitad en el grupo de control. Un grupo recibió 25 gramos de semillas de chía dos veces al día y el otro recibió un placebo. Los sujetos se ofrecieron como voluntarios para ser parte del estudio. Después de 12 semanas, los científicos no encontraron diferencias significativas entre los grupos en cuanto a apetito o pérdida de peso.
 
 **Individuos:** Hombres y mujeres.
+
 **Variables y su clasificación:**
 a. Cantidad de semillas recibidas (en gramos): Cuantitativa continua con escala de razón
 b. Tiempo transcurrido (en semanas): Cuantitativa discreta con escala de razón
+
 **Pregunta principal de investigación:** ¿La chía funciona como suplemento dietético en personas?
+
 **Población de interés y muestra del estudio:** Personas y la muestra son 38 hombres y 38 mujeres reclutados.
+
 **¿Los resultados del estudio se pueden generalizar o no a la población?:** No, ya que todos los individuos son distintos.    
+
 **¿Los resultados del estudio se pueden utilizar para establecer relaciones causales?:** No, porque no se encontraron diferencias en los resultados entre los grupos de tratamiento y control.
