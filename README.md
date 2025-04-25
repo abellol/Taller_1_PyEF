@@ -63,7 +63,7 @@ El ente rector de una universidad quiere determinar la condición física de los
 
 Dado el anonimato otorgado a las personas en las interacciones en línea, los investigadores plantearon la hipótesis de que las personas tímidas podrían tener actitudes más favorables hacia Facebook, y que la timidez podría tener una correlación positiva con el tiempo que pasan en Facebook. También plantearon la hipótesis de que las personas tímidas podrían tener menos “amigos” en Facebook, ya que tienden a tener menos amigos que las personas que no son tímidas en el mundo real. Se encuestó a 103 estudiantes de pregrado de una universidad mediante cuestionarios en línea. El estudio afirma que “los participantes fueron reclutados a través del grupo de participación de psicología de la universidad. Después de indicar su interés en el estudio, a los participantes se les envió un correo electrónico con la URL del estudio”.
 
-```
+```markdown
 **Individuos:** Estudiantes de pregrado.
 **Variables y su clasificación:**
 a. Tiempo (en horas)que pasan en Facebook: Cuantitativa discreta con escala de razón
@@ -76,7 +76,7 @@ b. Cantidad de amigos que tienen en Facebook: Cuantitativa discreta con escala d
 
 La chía ha ganado una reputación completamente nueva como suplemento dietético. En un estudio de 2009, un equipo de investigadores reclutó a 38 hombres y los dividió al azar en dos grupos: tratamiento o control. También reclutaron a 38 mujeres, y colocaron al azar a la mitad de estos participantes en el grupo de tratamiento y la otra mitad en el grupo de control. Un grupo recibió 25 gramos de semillas de chía dos veces al día y el otro recibió un placebo. Los sujetos se ofrecieron como voluntarios para ser parte del estudio. Después de 12 semanas, los científicos no encontraron diferencias significativas entre los grupos en cuanto a apetito o pérdida de peso.
 
-```
+```markdown
 **Individuos:** Hombres y mujeres.
 **Variables y su clasificación:**
 a. Cantidad de semillas recibidas (en gramos): Cuantitativa continua con escala de razón
